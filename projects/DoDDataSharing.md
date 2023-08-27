@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/NIWCEmblem.png
+image: img/NIWCEmblem.jpeg
 title: "NIWC Research: DoD Data Sharing || Big Data"
 date: 2023-01-15
 labels:
