@@ -19,3 +19,11 @@ summary: "In my first semester at UH, I immediately joined the Grey Hats club. T
 </div>
 
 As a natural born problem solver and challenge-lover, I immediately knew Grey Hats was the club for me. Throughout each semester, weekly meetings have covered a variety of compelling topics. Grey Hats Club covers topics relevant to cybersecurity and ethical hacking. Among these are common platforms used by or developed by organizations like as the NSA (e.g. metasploit), and a variety of ways to grow your ethical hacking skills. Through Grey Hats meetings as well as individual study through programs like TryHackMe and HackTheBox I have been able to consistently grow my cybersecurity knowledge and ability, and continue to nurture this passion. 
+
+While I have attained some skills and knowledge through these pathways, I find the material so interesting and enjoyable that I hope to get the chance to expand my knowledge in a practical setting. I would really enjoy getting some real-world experience with penetration and hope to get to work on real world missions in the future. Cybersecurity is a perfect field for a driven puzzle oriented student like me! 
+
+Link to Hack the Box: 
+
+Link to TryHackMe: 
+
+Link to example slides of what a Grey Hats meeting might contain: 
