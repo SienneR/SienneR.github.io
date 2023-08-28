@@ -17,7 +17,7 @@ summary: "Since 2020, I have continuously worked as an Ocean Rescue Lifeguard, i
 <div class="text-center p-4">
   <img width="300px" src="../img/oceanRescue/boardGroupPic.jpg" class="img-thumbnail" >
   <img width="300px" src="../img/oceanRescue/rescueBoat.jpeg" class="img-thumbnail" >
-  <img width="300px" src="../img/oceanRescue/hurricanElsaPic.jpg" class="img-thumbnail" >
+  <img width="300px" src="../img/oceanRescue/hurricaneElsaPic.jpg" class="img-thumbnail" >
   <img width="300px" src="../img/oceanRescue/boardGirlGroupPic.jpg" class="img-thumbnail" >
   <img width="300px" src="../img/oceanRescue/viewFromTower.jpeg" class="img-thumbnail" >
   <img width="300px" src="../img/oceanRescue/paddlePic.jpeg" class="img-thumbnail" >
