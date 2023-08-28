@@ -23,6 +23,6 @@ At the beginning of the semester, research was conducted to assess current issue
 
 In addition to the research on our chosen topic, the internship also had weekly lessons regarding an aspect of cybersecurity with a homework or discussion assignment. These topics included but were not limited to: DoD STIGS, RMF (risk management framework) policy reviews, examining network risk in terms of physical placement of dedicated firewalls, IPSs, IDSs, DMZs, and server placements, interpretaion of configuration files from security pov, and other various risk analysis environments. I thoroughly enjoyed this learning experience. Moving forward I hope to expand my knowledge in as many aspects of cybersecurity as possible. Our work with network analysis and diagramming was also particularly interesting.
 
-Click here for a link to a PDF of my research report: https://SienneR.github.io/projects/projectStuff/paperPDF.pdf
+[Click here for a link to a PDF of my research report](https://SienneR.github.io/projects/projectStuff/paperPDF.pdf)
 
-Click here for a link to a PDF of my poster: https://SienneR.github.io/projects/projectStuff/Poster.pdf
+[Click here for a link to a PDF of my poster](https://SienneR.github.io/projects/projectStuff/Poster.pdf)
