@@ -13,9 +13,10 @@ summary: "In an internship with the Naval Information Warfare Center, I conducte
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/mePresenting.jpeg" class="img-thumbnail" >
+  <img width="200px" src="../img/groupPicEdCase" class="img-thumbnail" >
+  <img width="200px" src="../img/groupPicProjectDay" class="img-thumbnail" >
+   <img width="200px" src="../img/bestPosterAward" class="img-thumbnail" >
 </div>
 
 At the beginning of the semester, research was conducted to assess current issues within the DoD. After some research, it was found that the DoD has great difficulty with its datasharing capabilities. Throughout the semester, an intensive literature review as well as interviews with Subject Matter Experts (SMEs) were conducted. After completing an extensive research report, posters were created for presentation. Seperate presentations had to be tailored for classmates, mentors, and government officials, including a Representative and a Senator. 
