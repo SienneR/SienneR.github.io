@@ -1,21 +1,21 @@
 ---
 layout: project
 type: project
-image: img/NIWCEmblem.jpeg
-title: "NIWC Research: DoD Data Sharing || Big Data"
-date: 2023-01-15
+image: img/greyHat.jpeg
+title: "Grey Hats || Ethical Hacking"
+date: 2022-08-25
 published: true
 labels:
-  - Big Data Platform
-  - Research
-  - Presentation
-summary: "In an internship with the Naval Information Warfare Center, I conducted a semester of research on the status and future of data sharing across the DoD."
+  - Ethical Hacking
+  - Community Involvement
+  - Ransomware
+summary: "In my first semester at UH, I immediately joined the Grey Hats club. Through this club I have gained exposure to a variety of different platforms and experiences"
 ---
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/groupPicEdCase.jpeg" class="img-thumbnail" >
-  <img width="300px" src="../img/mePresenting.jpeg" class="img-thumbnail" >
-  <img width="300px" src="../img/groupPicProjectDay.jpeg" class="img-thumbnail" >
+  <img width="300px" src="../img/hacker.jpeg" class="img-thumbnail" >
+  <img width="300px" src="../img/UHEmblem.png" class="img-thumbnail" >
+  <img width="300px" src="../img/TryHackMeLogo.png" class="img-thumbnail" >
 </div>
 
-At the beginning of the semester, research was conducted to assess current issues within the DoD. After some research, it was found that the DoD has great difficulty with its datasharing capabilities. Throughout the semester, an intensive literature review as well as interviews with Subject Matter Experts (SMEs) were conducted. After completing an extensive research report, posters were created for presentation. Seperate presentations had to be tailored for classmates, mentors, and government officials, including a Representative and a Senator. 
+As a natural born problem solver and challenge-lover, I immediately knew Grey Hats was the club for me. Throughout each semester, weekly meetings have covered a variety of compelling topics. Grey Hats Club covers topics relevant to cybersecurity and ethical hacking. Among these are common platforms used by or developed by organizations like as the NSA (e.g. metasploit), and a variety of ways to grow your ethical hacking skills. Through Grey Hats meetings as well as individual study through programs like TryHackMe and HackTheBox I have been able to consistently grow my cybersecurity knowledge and ability, and continue to nurture this passion. 
