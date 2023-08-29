@@ -8,7 +8,7 @@ published: true
 labels:
   - Ethical Hacking
   - Community Involvement
-  - Ransomware
+  - Malware
 summary: "In my first semester at UH, I immediately joined the Grey Hats club. Through this club I have gained exposure to a variety of different platforms and experiences"
 ---
 
