@@ -1,18 +1,17 @@
 ---
 layout: essay
 type: essay
-title: "Land of No Laws"
+title: "Creation Nation"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-27
+date: 2023-08-28
 published: true
 labels:
-  - JavaScript 
-  - Java
-  - Programming 
-  - Development
+  - Software Development 
+  - Programming
+  - Artificial Intelligence 
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/javaScriptPic.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/softDev.jpeg">
 
 *JavaScript: The Wild Wild West of Coding*
 
