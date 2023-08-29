@@ -11,7 +11,7 @@ labels:
   - Artificial Intelligence 
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/softDev.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/softDev.png">
 
 *JavaScript: The Wild Wild West of Coding*
 
