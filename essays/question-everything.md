@@ -19,11 +19,13 @@ In a classroom setting, where information is not as easily accessible and perhap
 
 But what about online? If you're home and you have a question? Well, in that scenario it is much more likely you have a stupid question. With the resources available to you and modern day technology, you probably have the capability to answer that question yourself. However with a few guidelines, you can avoid an embarassing online blunder and make sure you are contributing positively to your community. How does one ask a smart question? Its not quite as simple as "all questions are smart questions", because that's quite untrue, so lets dive in. 
 
-##  The Computer Science Nerd
+## Question Pregaming
 
-Computer Science students and professionals often get a bad wrap for being antisocial and disconnected from the world. While that may be true for some of us, for the others, there is nothing further from the truth. Technology has always been the driving force of civilization. In a world where most of your connections and experiences are documented or created by technology, where your basic resources like electricity, water, lighting, food, information, and even healthcare are managed by technology, is it really possible to contribute to a greater society without being technologically fluent? Without having the ability to understand technology enough to be able to manipulate it for the better? 
+Oh no! You've run into a problem! What are you going to do? Solving it seems kind of like a lot of work...i'm sure someone online probably knows the answer right off the top of their head! Bigger oops, you've now just asked a stupid question. 
 
-So maybe we do get a bad wrap, but computer science students are literally shaping the world of tomorrow. There is no aspect of modern living, not one, that is not heavily influenced by computers or the tech world. 
+So what should you have done? Running into problems in every aspect of life is going to happen. However, throwing in the towel before exhausting your possibilities for solving it yourself is not just bad character, but also a waste of time for everyone else. In the context of the open source software community, how do we know when we need to ask a question? Computer work is kinda hard...you've been staring at this screen and you just *cannot* figure it out. 
+
+Luckily, Eric Steven Raymond has given us some [pointers](http://www.catb.org/esr/faqs/smart-questions.html)..
 
 ## Put Some Skin in the Game 
 
