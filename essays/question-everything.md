@@ -12,12 +12,12 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/dumbQuestions.jpeg">
-<img width="200px" class="rounded float-start pe-4" src="../img/dumbQuestionComic.jpeg">
-<img width="200px" class="rounded float-start pe-4" src="../img/stupidQuestions.jpeg">
 
 *"There is no such thing as a dumb question! If you have a question, just ask!" - MANY many teachers*
 
 In a classroom setting, where information is not as easily accessible and perhaps being seen for the first time, there are very limited opportunities for stupid questions. The question that has already been asked is a stupid question and the question that was already answered (perhaps not as a question but in the content) is also a stupid question. Outside of those factors its extremely difficult to ask a stupid question. Regardless, many students fear ridicule or negative feedback and as a result do not ask questions that could have been quite smart. 
+
+<img width="200px" class="rounded float-start pe-4" src="../img/dumbQuestionComic.jpeg">
 
 But what about online? If you're home and you have a question? Well, in that scenario it is much more likely you have a stupid question. With the resources available to you and modern day technology, you probably have the capability to answer that question yourself. However with a few guidelines, you can avoid an embarassing online blunder and make sure you are contributing positively to your community. How does one ask a smart question? Its not quite as simple as "all questions are smart questions", because that's quite untrue, so lets dive in. 
 
@@ -28,6 +28,8 @@ But what about online? If you're home and you have a question? Well, in that sce
 Oh no! You've run into a problem! What are you going to do? Solving it seems kind of like a lot of work...i'm sure someone online probably knows the answer right off the top of their head! Bigger oops, you've now just asked a stupid question. 
 
 So what should you have done? Running into problems in every aspect of life is going to happen. However, throwing in the towel before exhausting your possibilities for solving it yourself is not just bad character, but also a waste of time for everyone else. In the context of the open source software community, how do we know when we need to ask a question? Computer work is kinda hard...you've been staring at this screen and you just *cannot* figure it out. 
+
+<img width="200px" class="rounded float-start pe-4" src="../img/stupidQuestions.jpeg">
 
 Luckily, Eric Steven Raymond has given us some [guidelines](http://www.catb.org/esr/faqs/smart-questions.html). Before you ask, it is your responsibility to exhaust all options for getting the answer yourself. This includes looking for the answer online, searching the forum it makes the most sense to post your question to, read the manual, read the FAQ, try some problem solving and mess around with it, ask someone you are friends with if they might know the answer (obviously, this one applies only when they have experience in the field), and read the source code! Basically, if you have a way to get the information without posting the question, do not post the question before you've exhausted all options. 
 
