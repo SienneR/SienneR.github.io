@@ -34,7 +34,7 @@ There are no bounds to what I want to learn. Thanks to the computer scientists w
 
 But seriously, I am so excited to learn software development. For ICS 314, we haven't even hardly started the content, and I went from stumbling around GitHub like I didn't know which way was up, to creating a whole website in just one weekend. I'm especially excited to be using tools that I keep seeing in job descriptions in applications, like Meteor, React, IntellijIDEA, and so many more. I cannot wait to learn how the process of actually creating software from the ground up works. Don't get me wrong, all the math classes were real fun, but i'm so happy to be doing work that resembles what i'll be doing in the field in a short time! There is nothing more exciting than creation. You've got a problem? Ugh, its worse, there's nothing out there that solves it for you! Well good thing you're an ICS major, because guess what, looks like you're fixing it. 
 
-*"If you've got a problem, yo - i'll solve it" - Vanilla Ice...and Software Developers 
+*"If you've got a problem, yo - i'll solve it" - Vanilla Ice...and Software Developers* 
 
 ## And the World Won't Wait for You Either
 
