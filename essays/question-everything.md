@@ -12,7 +12,7 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/dumbQuestions.jpeg">
-<img width="200px" class="rounded float-start pe-4" src="../img/stupidQuestionsComic.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/dumbQuestionComic.jpeg">
 <img width="200px" class="rounded float-start pe-4" src="../img/stupidQuestions.jpeg">
 
 *"There is no such thing as a dumb question! If you have a question, just ask!" - MANY many teachers*
