@@ -11,7 +11,7 @@ labels:
   - Community Involvement
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/softDev.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/dumbQuestions.jpeg">
 
 *"There is no such thing as a dumb question! If you have a question, just ask!" - MANY many teachers*
 
