@@ -25,7 +25,7 @@ Oh no! You've run into a problem! What are you going to do? Solving it seems kin
 
 So what should you have done? Running into problems in every aspect of life is going to happen. However, throwing in the towel before exhausting your possibilities for solving it yourself is not just bad character, but also a waste of time for everyone else. In the context of the open source software community, how do we know when we need to ask a question? Computer work is kinda hard...you've been staring at this screen and you just *cannot* figure it out. 
 
-Luckily, Eric Steven Raymond has given us some [pointers](http://www.catb.org/esr/faqs/smart-questions.html)..
+Luckily, Eric Steven Raymond has given us some [guidenlines](http://www.catb.org/esr/faqs/smart-questions.html). Before you ask, it is your responsibility to exhaust all options for getting the answer yourself. This includes looking for the answer online, searching the forum it makes the most sense to post your question to, read the manual, read the FAQ, try some problem solving and mess around with it, ask someone you are friends with if they might know the answer (obviously, this one applies only when they have experience in the field), and read the source code! Basically, if you have a way to get the information without posting the question, do not post the question before you've exhausted all options. 
 
 ## Put Some Skin in the Game 
 
