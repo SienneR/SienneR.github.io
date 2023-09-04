@@ -29,7 +29,7 @@ So what should you have done? Running into problems in every aspect of life is g
 
 Luckily, Eric Steven Raymond has given us some [guidelines](http://www.catb.org/esr/faqs/smart-questions.html). Before you ask, it is your responsibility to exhaust all options for getting the answer yourself. This includes looking for the answer online, searching the forum it makes the most sense to post your question to, read the manual, read the FAQ, try some problem solving and mess around with it, ask someone you are friends with if they might know the answer (obviously, this one applies only when they have experience in the field), and read the source code! Basically, if you have a way to get the information without posting the question, do not post the question before you've exhausted all options. 
 
-## How to Pop the Question 
+## Pop the Question 
 
 Alright, you've now done everything you can think of to possibly find the answer. You are certain your question is not a stupid one, because you've done everything you can to try and find the answer, and it's still nowhere to be found. Now what? Time to pop the question! 
 
