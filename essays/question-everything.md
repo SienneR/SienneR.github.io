@@ -17,9 +17,9 @@ labels:
 
 In a classroom setting, where information is not as easily accessible and perhaps being seen for the first time, there are very limited opportunities for stupid questions. The question that has already been asked is a stupid question and the question that was already answered (perhaps not as a question but in the content) is also a stupid question. Outside of those factors its extremely difficult to ask a stupid question. Regardless, many students fear ridicule or negative feedback and as a result do not ask questions that could have been quite smart. 
 
-<img width="200px" class="rounded float-start pe-4" src="../img/dumbQuestionComic.jpeg">
-
 But what about online? If you're home and you have a question? Well, in that scenario it is much more likely you have a stupid question. With the resources available to you and modern day technology, you probably have the capability to answer that question yourself. However with a few guidelines, you can avoid an embarassing online blunder and make sure you are contributing positively to your community. How does one ask a smart question? Its not quite as simple as "all questions are smart questions", because that's quite untrue, so lets dive in. 
+
+<img width="200px" class="rounded float-end pe-4" src="../img/dumbQuestionComic.jpeg">
 
 ## Search First, Ask Questions Later
 
@@ -40,6 +40,8 @@ Alright, you've now done everything you can think of to possibly find the answer
 But wait! Even after all the work you've just done, your question could still be stupid if you don't ask it the right way. So how do you make sure that you're not wasting your time or other peoples' time? It's important to remember, that you are not owed an answer. You're doing this in your free time, and so is anyone who might answer your question. How do you encourage others to *want* to answer your question? Raymond says, theres a a few things we can do. 
 
 Make sure you post your question in the correct forum, i.e. don't ask a question about mammals in a forum about snakes, people will think you are dumb. If you don't know the difference between mammals and snakes, why would I waste my time explaining something about mammals to you, even if I know the answer? Similarly, if the forum is very technical, don't post a question thats *not* technical. Intuitive, right? Find the forum that fits the question, and created a targeted post within that forum, and maybe one or two others, but not too many! You want your question to recieve the appropriate amount of eyes, basically, don't put the question everywhere you can think of, and don't send it directly to one person. I have never met you and you emailed me your question? It's not my job to answer, and you're acting like it is. Now you're ignored, doofus. 
+
+<img width="200px" class="rounded float-end pe-4" src="../img/rightQuestions.jpeg">
 
 Based on your question, there may be a few special cases that apply to you. For [Stack Overflow](https://stackoverflow.com) questions, you should always search first and then ask. Do not ask a question that has been asked before. For Web/IRC forums, theres often a channel for people who are new to get help. Still, search before asking. If you're not getting anywhere, use mailing lists, not individual email addresses. 
 
