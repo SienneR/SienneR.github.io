@@ -13,9 +13,11 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/softDev.png">
 
-*"The true sign of intelligence is not knowledge but imagination" - Albert Einstein*
+*"There is no such thing as a dumb question! If you have a question, just ask!" - MANY many teachers*
 
-Pick a problem that the world faces today. No really, pick *any* problem in the whole world. I can guarantee you, the problem you just picked can be greatly assisted, or even solved, by software development. In the modern world, we have more than we have ever had. More resources, more knowledge, more connectivity, more wealth, but also more problems, more hunger, more hostility, more strife. 
+In a classroom setting, where information is not as easily accessible and perhaps being seen for the first time, there are very limited opportunities for stupid questions. The question that has already been asked is a stupid question and the question that was already answered (perhaps not as a question but in the content) is also a stupid question. Outside of those factors its extremely difficult to ask a stupid question. Regardless, many students fear ridicule or negative feedback and as a result do not ask questions that could have been quite smart. 
+
+But what about online? If you're home and you have a question? Well, in that scenario it is much more likely you have a stupid question. With the resources available to you and modern day technology, you probably have the capability to answer that question yourself. However with a few guidelines, you can avoid an embarassing online blunder and make sure you are contributing positively to your community. How does one ask a smart question? Its not quite as simple as "all questions are smart questions", because that's quite untrue, so lets dive in. 
 
 ##  The Computer Science Nerd
 
