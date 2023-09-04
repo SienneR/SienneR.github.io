@@ -74,13 +74,16 @@
   ],
   "references": [
     {
-      "name": "Curtis Arnold, Mentor, Vice President, and Chief Scientist of Cyber at Core4ce. Contact information available upon request"
+      "name": "Curtis Arnold, Mentor, Vice President, and Chief Scientist of Cyber at Core4ce."
+      "reference": "Contact information available upon request"
     },  
     {
-      "name": "Robert Adamove, Mentor and Senior Associate at Core4ce. Contact information available upon request"
+      "name": "Robert Adamove, Mentor and Senior Associate at Core4ce." 
+      "reference": "Contact information available upon request"
     },
       {
-      "name": "Scott Robertson, Professor and Chair of Information and Computer Sciences Department. Contact information available upon request"
+      "name": "Scott Robertson, Professor and Chair of Information and Computer Sciences Department."
+      "reference": "Contact information available upon request"
     }
   ]
 }
