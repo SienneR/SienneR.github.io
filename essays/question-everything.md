@@ -39,13 +39,23 @@ Make sure you post your question in the correct forum, i.e. don't ask a question
 
 Based on your question, there may be a few special cases that apply to you. For [Stack Overflow](https://stackoverflow.com) questions, you should always search first and then ask. Do not ask a question that has been asked before. For Web/IRC forums, theres often a channel for people who are new to get help. Still, search before asking. If you're not getting anywhere, use mailing lists, not individual email addresses. 
 
-
-
-
+Your subject line is very important. Be descriptive, not using phrases such as "need help" or "assistance needed" or etc. Obviously you need help, otherwise you wouldn't be here. The best practice in subject lines is to use the "object-deviation" format. What are you needing help with, and then what is going on? It both introduces the topic to the reader, allowing them to quickly ascertain whether or not they can even help, and begins explaining the problem. 
 
 ## What do You Mean?  
 
+So lets go ahead an analyze some examples, just to see all the above in action. 
 
+1. In this [example](https://stackoverflow.com/questions/71724426/how-to-prevent-useeffect-run-twice-after-running-a-function-in-context-consume), someone was having an issue with a javascript function in react. Overall, the post was well made and the community response was positive.
+
+   Positives of this post inlcude the subject line. The subject, while it is not in the object-deviation format, does accurately summarize the issue the poster was having. Additionally, all of the code included in the post was correctly formatted (no images, could easily be copy-pasted). The post is very descriptive and allows the reader to understand what is going on thoroughly. This question could not be found anywhere else on the site, and as a result there were over 2000 views and 3 detailed responses. 
+
+2. In this [example](https://stackoverflow.com/questions/23040185/insert-table-names-in-jcombobox-in-swing-java), someone was having an issue with table names in JComboBox in swing Java. Overall, the post was not well made and the community response was nonexistent.
+
+   The subject line of this post accurately describes the issue the poster was having. However in the description description, lines such as "Please point out the mistake that i'm doing" and "Sorry if this question is already posted". There were no responses at all to this question. The code is properly formatted and included in the post, however not enough context as to what is going on is provided.
+
+3. In this [example](https://stackoverflow.com/questions/57871677/ios-13-silent-push-notifications-are-no-longer-reliable), someone was having an issue with iOS notifications. Overall, the post was not well made and the community response was nonexistent.
+
+    The subject line of this post is nondescript, and makes a statement that is not conducive to an answer. The entire post in general is not very specific, and ends without ever technically asking a question. Naturally, there were over 8000 views of this post without a single answer. 
 
 ## All Around
 
