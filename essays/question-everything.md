@@ -19,28 +19,35 @@ In a classroom setting, where information is not as easily accessible and perhap
 
 But what about online? If you're home and you have a question? Well, in that scenario it is much more likely you have a stupid question. With the resources available to you and modern day technology, you probably have the capability to answer that question yourself. However with a few guidelines, you can avoid an embarassing online blunder and make sure you are contributing positively to your community. How does one ask a smart question? Its not quite as simple as "all questions are smart questions", because that's quite untrue, so lets dive in. 
 
-## Question Pregaming
+## Search First, Ask Questions Later
+
+*"It is better to keep your mouth closed and have people think you are a fool than to open it and remove all doubt" - Mark Twain*
 
 Oh no! You've run into a problem! What are you going to do? Solving it seems kind of like a lot of work...i'm sure someone online probably knows the answer right off the top of their head! Bigger oops, you've now just asked a stupid question. 
 
 So what should you have done? Running into problems in every aspect of life is going to happen. However, throwing in the towel before exhausting your possibilities for solving it yourself is not just bad character, but also a waste of time for everyone else. In the context of the open source software community, how do we know when we need to ask a question? Computer work is kinda hard...you've been staring at this screen and you just *cannot* figure it out. 
 
-Luckily, Eric Steven Raymond has given us some [guidenlines](http://www.catb.org/esr/faqs/smart-questions.html). Before you ask, it is your responsibility to exhaust all options for getting the answer yourself. This includes looking for the answer online, searching the forum it makes the most sense to post your question to, read the manual, read the FAQ, try some problem solving and mess around with it, ask someone you are friends with if they might know the answer (obviously, this one applies only when they have experience in the field), and read the source code! Basically, if you have a way to get the information without posting the question, do not post the question before you've exhausted all options. 
+Luckily, Eric Steven Raymond has given us some [guidelines](http://www.catb.org/esr/faqs/smart-questions.html). Before you ask, it is your responsibility to exhaust all options for getting the answer yourself. This includes looking for the answer online, searching the forum it makes the most sense to post your question to, read the manual, read the FAQ, try some problem solving and mess around with it, ask someone you are friends with if they might know the answer (obviously, this one applies only when they have experience in the field), and read the source code! Basically, if you have a way to get the information without posting the question, do not post the question before you've exhausted all options. 
 
-## Put Some Skin in the Game 
+## How to Pop the Question 
 
-Ok, so i've talked a big talk. I've told you all about how computer science students are the movers and makers of our progressing society. But how are we actually doing that? Maybe we should google it...ah yes! *Google*. Theres just one enourmous example of how computer science flipped society on its head and gave it more! Every operating system or computer you've ever used, every app you've opened, every text you've typed out on that mini computer you keep in your pocket, wouldn't have been possible without software developers. 
+Alright, you've now done everything you can think of to possibly find the answer. You are certain your question is not a stupid one, because you've done everything you can to try and find the answer, and it's still nowhere to be found. Now what? Time to pop the question! 
+
+But wait! Even after all the work you've just done, your question could still be stupid if you don't ask it the right way. So how do you make sure that you're not wasting your time or other peoples' time? It's important to remember, that you are not owed an answer. You're doing this in your free time, and so is anyone who might answer your question. How do you encourage others to *want* to answer your question? Raymond says, theres a a few things we can do. 
+
+Make sure you post your question in the correct forum, i.e. don't ask a question about mammals in a forum about snakes, people will think you are dumb. If you don't know the difference between mammals and snakes, why would I waste my time explaining something about mammals to you, even if I know the answer? Similarly, if the forum is very technical, don't post a question thats *not* technical. Intuitive, right? Find the forum that fits the question, and created a targeted post within that forum, and maybe one or two others, but not too many! You want your question to recieve the appropriate amount of eyes, basically, don't put the question everywhere you can think of, and don't send it directly to one person. I have never met you and you emailed me your question? It's not my job to answer, and you're acting like it is. Now you're ignored, doofus. 
+
+Based on your question, there may be a few special cases that apply to you. For [Stack Overflow](https://stackoverflow.com) questions, you should always search first and then ask. Do not ask a question that has been asked before. For Web/IRC forums, theres often a channel for people who are new to get help. Still, search before asking. If you're not getting anywhere, use mailing lists, not individual email addresses. 
 
 
-## What about Me? 
 
-There are no bounds to what I want to learn. Thanks to the computer scientists who came before me, there aren't any bounds for what I *can* learn either! Professors, advisors, industry professionals, family members, everyone just wants to know what you want to specialize in. "Sure you like it all, but what do you like *more*??" I like learning more. I like solving puzzles more. I like creating something out of nothing more. Well thank goodness too, because I certainly picked the right field for it. Not to mention, everything in computer science is connected. Once you learn how to code in one language, you can pick up fluency in another one in less than a day, I mean shoot, I just did this past Friday. If youve "got it" with computer science, like really understand a certain topic, you can sneeze and accidentally pick up another! Dont get too close...it might be contagious... 
 
-But seriously, I am so excited to learn software development. For ICS 314, we haven't even hardly started the content, and I went from stumbling around GitHub like I didn't know which way was up, to creating a whole website in just one weekend. I'm especially excited to be using tools that I keep seeing in job descriptions in applications, like Meteor, React, IntellijIDEA, and so many more. I cannot wait to learn how the process of actually creating software from the ground up works. Don't get me wrong, all the math classes were real fun, but i'm so happy to be doing work that resembles what i'll be doing in the field in a short time! There is nothing more exciting than creation. You've got a problem? Ugh, its worse, there's nothing out there that solves it for you! Well good thing you're an ICS major, because guess what, looks like you're fixing it. 
 
-*"If you've got a problem, yo - i'll solve it" - Vanilla Ice...and Software Developers
+## What do You Mean?  
 
-## And the World Won't Wait for You Either
+
+
+## All Around
 
 We are continuously growing and changing. As people, as a community, as a profession, and even as a world. You know, in the third grade I had a teacher who wouldn't let me use a calculator. I ofcourse thought, well we have this magnificent tool, we already learned the basics and *can* do it without, why not use this awesome technology? "When you grow up and are walking around town, you're not going to be carrying a calculator everywhere with you!", boy oh boy I bet she feels pretty silly now. 
 
