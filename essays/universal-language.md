@@ -11,7 +11,8 @@ labels:
   - Coding Standards
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/softDev.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/codingStandardsComic1.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/codingStandardsComic2.png">
 
 *"The true sign of intelligence is not knowledge but imagination" - Albert Einstein*
 
