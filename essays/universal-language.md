@@ -14,19 +14,15 @@ labels:
 <img width="200px" class="rounded float-start pe-4" src="../img/codingStandardsComic1.png">
 <img width="200px" class="rounded float-start pe-4" src="../img/codingStandardsComic2.png">
 
-*"The true sign of intelligence is not knowledge but imagination" - Albert Einstein*
+  Growing up, I was always a fan of math and science. I was almost always pretty good at it too! But as all children do, I sometimes would have issues with a particular math assignment here and there. I would get all upset about how in these cases, it didn't just come naturally to me and I had to get allll worked up over it. My mother, attempting to reassure me that my efforts were not in vain, would always say, "Sienne, math is the universal lanaguge. It doesn't matter where you go or what languages they speak there, you will always be able to speak to people in math!". Naturally, I would argue that there are quite a few ideas you cannot get across with math, but the point remains, that there is a great deal of value in standardization and a universally agreed upon set of rules. 
 
-Pick a problem that the world faces today. No really, pick *any* problem in the whole world. I can guarantee you, the problem you just picked can be greatly assisted, or even solved, by software development. In the modern world, we have more than we have ever had. More resources, more knowledge, more connectivity, more wealth, but also more problems, more hunger, more hostility, more strife. 
+##  You're Only As Good As Your Communication
 
-##  The Computer Science Nerd
+You could be the smartest person in the whole world, but it wouldn't matter if other people could not understand you. Likewise, you could write an amazing program, but it would have a limited effect it others could not understand your code, or could not contribute to your work. You might be pretty darn good at coding, but you won't be around forever... 
 
-Computer Science students and professionals often get a bad wrap for being antisocial and disconnected from the world. While that may be true for some of us, for the others, there is nothing further from the truth. Technology has always been the driving force of civilization. In a world where most of your connections and experiences are documented or created by technology, where your basic resources like electricity, water, lighting, food, information, and even healthcare are managed by technology, is it really possible to contribute to a greater society without being technologically fluent? Without having the ability to understand technology enough to be able to manipulate it for the better? 
+## Necessity of Coding Standards  
 
-So maybe we do get a bad wrap, but computer science students are literally shaping the world of tomorrow. There is no aspect of modern living, not one, that is not heavily influenced by computers or the tech world. 
 
-## Put Some Skin in the Game 
-
-Ok, so i've talked a big talk. I've told you all about how computer science students are the movers and makers of our progressing society. But how are we actually doing that? Maybe we should google it...ah yes! *Google*. There's just one enormous example of how computer science flipped society on its head and gave it more! Every operating system or computer you've ever used, every app you've opened, every text you've typed out on that mini computer you keep in your pocket, wouldn't have been possible without software developers. 
 
 
 ## What about Me? 
