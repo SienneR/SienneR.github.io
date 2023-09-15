@@ -22,16 +22,11 @@ You could be the smartest person in the whole world, but it wouldn't matter if o
 
 ## Necessity of Coding Standards  
 
+Coding standards are a vital part of the development community. There may be tons of coding languages and a great deal of different coding standards, but the organization and rules which govern a certain coding standard are a vital part to the development of programs and code everywhere. Without codings standards, programs would be considerably more complex, difficult to read, and therefore also a greater challenge to maintain and add upon! Adhering to a set of structural norms allows others to understand what you're trying to do, maintain the goal, and build upon it to create an even more adventageous result. Even if you are more advanced than your peers (or simply under the impression that you are), two brains are practically guaranteed to be better than one. And odds are, there is more than one other person who can understand you if you're using a coding standard! Not only is using a coding standard a vital part of creating code, but it allows you to unleash the power of the nerd community on your work!
+
+## ESLint with IntellijIDEA
 
 
-
-## What about Me? 
-
-There are no bounds to what I want to learn. Thanks to the computer scientists who came before me, there aren't any bounds for what I *can* learn either! Professors, advisors, industry professionals, family members, everyone just wants to know what you want to specialize in. "Sure you like it all, but what do you like *more*??" I like learning more. I like solving puzzles more. I like creating something out of nothing more. Well thank goodness too because I certainly picked the right field for it. Not to mention, everything in computer science is connected. Once you learn how to code in one language, you can pick up fluency in another one in less than a day, I mean shoot, I just did this past Friday. If you've "got it" with computer science, like really understand a certain topic, you can sneeze and accidentally pick up another! Don't get too close...it might be contagious... 
-
-But seriously, I am so excited to learn software development. For ICS 314, we haven't even hardly started the content, and I went from stumbling around GitHub like I didn't know which way was up, to creating a whole website in just one weekend. I'm especially excited to be using tools that I keep seeing in job descriptions in applications, like Meteor, React, IntellijIDEA, and so many more. I cannot wait to learn how the process of actually creating software from the ground up works. Don't get me wrong, all the math classes were real fun, but i'm so happy to be doing work that resembles what i'll be doing in the field in a short time! There is nothing more exciting than creation. You've got a problem? Ugh, its worse, there's nothing out there that solves it for you! Well good thing you're an ICS major, because guess what, looks like you're fixing it. 
-
-*"If you've got a problem, yo - i'll solve it" - Vanilla Ice...and Software Developers* 
 
 ## And the World Won't Wait for You Either
 
