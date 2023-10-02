@@ -9,13 +9,14 @@ labels:
   - Software Development 
   - UI Frameworks
   - Software Engineering
+  - Bootstrap 5
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/bootstrap-logo.jpeg">
 
   User Interface Frameworks provide a great deal of possibilities for the implementer. Due to all of the options and tools provided, they may take some getting used to. However, the time investment is well worth-while, as UI interfaces are vital tools in software and web development. There are many reasons UI interfaces can be preferred over raw HTML and CSS, including rapid development, consistency, responsive design, community support, cross browser compatibility, and more! 
 
-*"You can have brilliant ideas, but if you can't get them across, your ideas won't get you anywhere" - Lee Iacocca*
+<img width="300px" class="rounded float-start pe-4" src="../img/bootstrap-comic.jpeg">
 
 ##  You're Only As Good As Your Communication
 
