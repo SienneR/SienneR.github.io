@@ -13,7 +13,7 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/bootstrap-logo.jpeg">
 
-  Growing up, I was always a fan of math and science. I was almost always pretty good at it too! But as all children do, I sometimes would have issues with a particular math assignment here and there. I would get all upset about how in these cases, it didn't just come naturally to me, and I had to get allll worked up over it. My mother, attempting to reassure me that my efforts were not in vain, would always say, "Sienne, math is the universal language. It doesn't matter where you go or what languages they speak there, you will always be able to speak to people in math!". Naturally, I would argue that there are quite a few ideas you cannot get across with math, but the point remains, that there is a great deal of value in standardization and a universally agreed upon set of rules. 
+  User Interface Frameworks provide a great deal of possibilities for the implementer. Due to all of the options and tools provided, they may take some getting used to. However, the time investment is well worth-while, as UI interfaces are vital tools in software and web development. There are many reasons UI interfaces can be preferred over raw HTML and CSS, including rapid development, consistency, responsive design, community support, cross browser compatibility, and more! 
 
 *"You can have brilliant ideas, but if you can't get them across, your ideas won't get you anywhere" - Lee Iacocca*
 
