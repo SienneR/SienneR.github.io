@@ -8,7 +8,7 @@ published: true
 labels:
   - Software Development 
   - UI Frameworks
-  - Software Engineering
+  - Software Engineering 
   - Bootstrap 5
 ---
 
