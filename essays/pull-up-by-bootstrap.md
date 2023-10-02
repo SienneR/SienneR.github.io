@@ -16,7 +16,7 @@ labels:
 
   User Interface Frameworks provide a great deal of possibilities for the implementer. Due to all of the options and tools provided, they may take some getting used to. However, the time investment is well worth-while, as UI frameworks are vital tools in software and web development. There are many reasons UI interfaces can be preferred over raw HTML and CSS, including rapid development, consistency, responsive design, community support, cross browser compatibility, and more! 
 
-<img width="300px" class="rounded float-start pe-4" src="../img/bootstrap-comic.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/boostrap-comic.png">
 
 ## Don't Reinvent the Wheel! 
 
@@ -26,7 +26,7 @@ There are so many different things to consider when creating software. To name j
 
 What actually is a UI Framework? It's basically a library of pre-written tools for you to use. Common elements of webpages are created, and put in the library for you to access whenever you would like! Icons? You got it! Tables? You got it! Forms? Yep those too! With consistent styling and formatting and a great deal of pre-created elements, your life just got a whole lot easier and more efficient. 
 
-<img width="500px" class="rounded float-end pe-4" src="../img/codingStandardsComic1.png">
+<img width="500px" class="rounded float-end pe-4" src="../img/UI-comic.jpeg">
 
 ## ESLint with IntellijIDEA
 
