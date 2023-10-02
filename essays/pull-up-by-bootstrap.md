@@ -38,3 +38,6 @@ Overall, you are going to need to pick a framework and learn it, because otherwi
 
 ## Bootstrap 5 
 
+I have recently had the benefit of being able to learn and work with Bootstrap 5. As suspected, it was a non-negligable amount of effort upfront, and certainly took some getting used to. The world of possibilities using a UI Framework like Bootstrap 5 is practically endless! However, despite the initial learning curve, I greatly enjoyed using Bootstrap 5 over the past week as I felt as though the products of my work were considerably higher level. In a website recreation exercise, for example, I had the chance to pick a site and create it from scratch myself. 
+
+I really appreciate when I learn skills that I feel I will be able to directly apply in the real world in a course or lesson. I enjoyed working with Bootstrap 5, because I felt as though I was developing a very usefull skill. Not just the ability to learn how to use a UI Framework, but also how to go about the creation process. Duplicating a site online is just one half-step off of designing and creating your own site from nothing! 
