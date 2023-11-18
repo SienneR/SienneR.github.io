@@ -95,3 +95,15 @@ A thousand times yes! I cannot count the number of times I have pasted problemat
 ChatGPT has had an overwhelmingly positive influence on my learning and understanding in a variety of contexts. If you can break it down, it can help you. It is certainly not a substitute for human instruction, nor is it a substitute for good old fashioned "grinding it out", however it will almost always make the process quicker. In fact, it is so helpful that my first resource for a problem is almost always ChatGPT. It is not advanced enough to solve all your problems or create solutions the way humans can, but it can give you a strong nudge in the right direction. Showing you where to look and what you might want to look for is a significant amount of the battle, and ChatGPT can consistently shine a flashlight to the dark path (or if not, it can light a candle). 
 
 # Practical Applications
+
+## Low-Level Coding 
+
+Most of the developers I know who work out in the 'real world' use ChatGPT or some other generative AI to do the work a low level programmer would. It can create simple solutions very effectively and efficiently, and you don't have to teach it. To my knowledge, the code generative AI creates is always audited and often changed a little, but if you break it down correctly for the AI, it usually provides a pretty good solution. Plus, if you have an entry level coder, odds are you're auditing their code and breaking it down for them as well.
+
+## Data Analysis 
+
+AI models can be used to perform fast and in depth data analysis. Not only can AI read and analyze data, but it can clean data, recognize patterns, predict future data based on past data, detect anomalies, make predictions, and generate automated reports. Vitally, AI models can be customized to fit your exact needs. A funny but true saying that applies here very well: "Why spend 10 minutes doing a task, when you can spend 10 hours automating it?". Certainly, the saying is meant to be ironic, however although it is a greater (temporary) time commitment, all those sets of 10 minutes doing mind-numbing tasks will definitively add up to more than 10 hours in the long run - and think of how much happier you will be to not be doing such mundane tasks!
+
+# Challenges and Opportunities 
+
+
