@@ -28,7 +28,7 @@ Although there are many different generative AI products available today, my per
 
 As a computer science major, I have personally found generative AI very helpful in a variety of different subjects. Although it almost never gets the answer exactly right, it can almost always provide a helpful starting point. If you put 100% confidence in generative A.I., you will almost certainly be led astray. However, in order to effectively use generative AI, there are a few important principals:
 
-### Always Assume its Incorrect
+### Always Assume it's Incorrect
 
 <img width="400px" class="rounded float-start pe-4" src="../img/ai/brain-ai.jpeg">
 
