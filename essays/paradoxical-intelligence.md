@@ -66,5 +66,8 @@ Generative A.I., namely ChatGPT, is not very good with Meteor + React + MongoDB.
 
 ### Learning a Concept/Tutorial 
 
-If its simple, you're solid. ChatGPT can handle explanation of simple concepts really well. It can identify the relationships between two components, or explain how two things interact. I have asked ChatGPT to give an answer for a certain topic, and then asked "why?", and it almost always gives an understandable explaination. 
+If its simple, you're solid. ChatGPT can handle explanation of simple concepts really well. It can identify the relationships between two components, or explain how two things interact. I have asked ChatGPT to give an answer for a certain topic, and then asked "why?", and it almost always gives an understandable explaination. A good rule of thumb for learning concepts is that if there are (shorter) youtube videos explaining it, ChatGPT can probably do better. If you have to dig really deep into youtube, or [Abdul Bari](https://www.youtube.com/@abdul_bari) has a video for you, Abdul can do it better. 
+
+### Questions 
+
 
