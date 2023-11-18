@@ -17,7 +17,7 @@ labels:
 
 A hot topic in the last year, generative artificial intelligence, aka generative A.I., has had a huge impact on many different aspects of society and the world. While many people fear its power, most of us in the computer science world know very well that it is a long way from its dystopian depiction in media. Although we may not have robots taking over the world any time soon (Age of Ultron is just going to have to wait...), generative A.I. still has quite a bit to offer. With capabilities ranging from workout planning to differential equation calculations, generative A.I. is a tool, but that's about all it is. As with all tools, you must know how to use it correctly for it to be helpful. Unlike many tools however, you must be very careful not to be misled.  
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ai/chatGPT.jpeg">
+<img width="200px" class="rounded float-end pe-4" src="../img/ai/chatGPT.jpeg">
 ### ChatGPT
 
 Although there are many different generative A.I. products available today, my personal experience is almost exclusively with ChatGPT, and therefore the content within this essay is in the context of my work with ChatGPT.
@@ -28,7 +28,7 @@ As a computer science major, I have personally found generative A.I. very helpfu
 
 ### Always Assume its Incorrect
 
-<img width="200px" class="rounded float-end pe-4" src="../img/ai/brain-ai.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/ai/brain-ai.jpeg">
 
 Generative A.I. has advanced enough to where you can use it as a knowledge base. However, in the context of computer science academia, you must always assume the details it gives you are incorrect. In my experience, I have found that about half of the time, if you ask ChatGPT "are you sure?", it will change its answer! Sometimes the first answer is correct, sometimes the second is, and occassionaly, neither is correct! Generative A.I. may certainly serve as an inspiration, but when asking questions with any nuance, you should always follow up your A.I. expedition with good old fashioned research. You are still the better half of Generative A.I., isn't that good news? 
 
@@ -58,5 +58,13 @@ However, when it came to more complex and interrelated concepts, such as using M
 
 ### Essays
 
-For Essays or any writing synthesis, I have found ChatGPT to be a very poor substitute for actual writing. Even on my worst days, I'm able to explain a concept more eloquently and in detail than ChatGPT. 
+For Essays or any writing synthesis, I have found ChatGPT to be a very poor substitute for actual writing. Even on my worst days, I'm able to explain a concept more eloquently and in detail than ChatGPT. In the context of ICS 314, I haven't used generative A.I. for any essays. I have used ChatGPT to create discussion posts for other classes, however have found that without a single exception, I have had to greatly modify the provided output in order to create an actual post. I would say, generative A.I. has an essay IQ slightly below an exceedingly average individual. 
+
+### Final Project 
+
+Generative A.I., namely ChatGPT, is not very good with Meteor + React + MongoDB. I have tried asking it to create code to work with a database, and it does not do well at all. Any time you want ChatGPT to work with multiple files, even if you copy and paste the involved files directly in the prompt, it gets very confused and is largely unhelpful. Despite this, you can get some helpful information if you break it down...like *really* far down. But, the information is going to be outdated and you're still going to spend a considerable amount of time combing though documentation. 
+
+### Learning a Concept/Tutorial 
+
+If its simple, you're solid. ChatGPT can handle explanation of simple concepts really well. It can identify the relationships between two components, or explain how two things interact. I have asked ChatGPT to give an answer for a certain topic, and then asked "why?", and it almost always gives an understandable explaination. 
 
