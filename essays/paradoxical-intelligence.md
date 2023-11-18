@@ -28,7 +28,7 @@ As a computer science major, I have personally found generative A.I. very helpfu
 
 ### Always Assume its Incorrect
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ai/brain-ai.jpeg">
+<img width="200px" class="rounded float-end pe-4" src="../img/ai/brain-ai.jpeg">
 
 Generative A.I. has advanced enough to where you can use it as a knowledge base. However, in the context of computer science academia, you must always assume the details it gives you are incorrect. In my experience, I have found that about half of the time, if you ask ChatGPT "are you sure?", it will change its answer! Sometimes the first answer is correct, sometimes the second is, and occassionaly, neither is correct! Generative A.I. may certainly serve as an inspiration, but when asking questions with any nuance, you should always follow up your A.I. expedition with good old fashioned research. You are still the better half of Generative A.I., isn't that good news? 
 
@@ -41,3 +41,9 @@ The K.I.S.S. (Keep it simple, stupid!) rule is a good principle to adopt in many
 Using Generative A.I. can be very helpful, however there are many limitations. If you stick to well known facts, you have pretty good odds of getting dependable answers. However, if you're trying to get really into the 'generative' part, asking for synthesis of complex ideas or advanced analyses, you're better off using it exclusively for inspiration. Generative A.I. is a very good spring board. It can help you start a discussion post, come up with the main ideas for a paper, or even give you a design to help get your brain wheels turning, but (as with all things), you should *not* take its word as the truth and you should *not* stop your digging there. 
 
 ## ICS 314 Course Involvement
+
+### ICS 314 
+
+ICS 314 is a software development course. Over the semester, we have covered a wide range of topics to include JavaScript, HTML, CSS, Meteor, MongoDB, and more! In coordination with the weekly material, there is a particular pedigogy to the course. Each week, you have a "WOD", or workout of the day, where you implement whatever you have been working on in a small, timed project. 
+
+###
