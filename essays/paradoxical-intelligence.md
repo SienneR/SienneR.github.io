@@ -46,4 +46,17 @@ Using Generative A.I. can be very helpful, however there are many limitations. I
 
 ICS 314 is a software development course. Over the semester, we have covered a wide range of topics to include JavaScript, HTML, CSS, Meteor, MongoDB, and more! In coordination with the weekly material, there is a particular pedigogy to the course. Each week, you have a "WOD", or workout of the day, where you implement whatever you have been working on in a small, timed project. 
 
-###
+### Experience WODs
+
+In experience WODs, generative A.I. was moderately helpful. As with many A.I. queries, you have to know what question to ask. For example, when working with the Underscore javascript library, you can give chatGPT a prompt of what you want to do, and it can pretty reliably give you a solution function. For the experience WODs however, instructor videos were also provided. I found it much more helpful to watch the video and then solve it myself a seperate time or in a seperate context, as this allows you to understand how experienced professionals go about solving it. The "I need X, so I will look for Y" is very helpful in learning a new process and how to filter a large range of information into exactly what you want. 
+
+### In Class Practice WODs and In Class WODs
+
+For In Class Practice WODs (and almost identically, In Class WODs), the helpfulness of generative A.I. depended greatly on the context of the WOD. For example, with basic javascript, HTML, and CSS, you can almost certainly get the right answer spit out at you if you try enough times. You can copy and paste your code in, if you have an error, and chatGPT will tell you some things to try to fix it. While I do not have a definitive percentage, with topics such as the aforementioned ones, you have an about 95% chance of being able to have generative A.I. completely create, or atleast solve errors, within a specific task. 
+
+However, when it came to more complex and interrelated concepts, such as using MongoDB with Meteor and using React with Meteor, ChatGPT is almost completely unhelpful. While it can give you some 'skeletons' to build onto, they're almost always really poor solutions. For example, just today I tried to have ChatGPT create a button which interacts with a custom Collection. The result ChatGPT gave was not only incorrect, but convoluded and poorly organized. 
+
+### Essays
+
+For Essays or any writing synthesis, I have found ChatGPT to be a very poor substitute for actual writing. Even on my worst days, I'm able to explain a concept more eloquently and in detail than ChatGPT. 
+
