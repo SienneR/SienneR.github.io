@@ -19,7 +19,7 @@ labels:
 
 A hot topic in the last year, generative artificial intelligence, aka generative AI, has had a huge impact on many different aspects of society and the world. While many people fear its power, most of us in the computer science world know very well that it is a long way from its dystopian depiction in media. Although we may not have robots taking over the world any time soon (Age of Ultron is just going to have to wait...), generative AI still has quite a bit to offer. With capabilities ranging from workout planning to differential equation calculations, generative AI is a tool, but that's about all it is. As with all tools, you must know how to use it correctly for it to be helpful. Unlike many tools however, you must be very careful not to be misled.  
 
-<img width="200px" class="rounded float-end pe-4" src="../img/ai/chatGPT.jpeg">
+<img width="400px" class="rounded float-end pe-4" src="../img/ai/chatGPT.jpeg">
 ### ChatGPT
 
 Although there are many different generative AI products available today, my personal experience is almost exclusively with ChatGPT, and therefore the content within this essay is in the context of my work with ChatGPT.
@@ -30,7 +30,7 @@ As a computer science major, I have personally found generative AI very helpful 
 
 ### Always Assume its Incorrect
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ai/brain-ai.jpeg">
+<img width="400px" class="rounded float-start pe-4" src="../img/ai/brain-ai.jpeg">
 
 Generative AI has advanced enough to where you can use it as a knowledge base. However, in the context of computer science academia, you must always assume the details it gives you are incorrect. In my experience, I have found that about half of the time, if you ask ChatGPT "are you sure?", it will change its answer! Sometimes the first answer is correct, sometimes the second is, and occasionally, neither is correct! Generative AI may certainly serve as an inspiration, but when asking questions with any nuance, you should always follow up your AI expedition with good old-fashioned research. You are still the better half of Generative AI, isn't that good news? 
 
