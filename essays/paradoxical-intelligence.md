@@ -83,7 +83,7 @@ For simple code, ChatGPT can definitely do it for you! Especially if you ask it 
 If it can write it, it can explain it. If you have a solution already and want it to be explained, you've got a 90% chance of getting a high quality explanation, as long as you're not working with many interrelated files. I have rarely encountered an explanation from ChatGPT that was not enough to gain a working knowledge of the code and be able to synthesize a similar solution from scratch. You do need to be careful though, as sometimes ChatGPT will break conventions, create redundant code, or not include somewhat necessary elements (proper error checking, for example). With JavaScript, Java, C, and C++, I have had very positive experiences asking ChatGPT to code things for me, however exclusively when there are few files involved. 
 
 ### Documenting Code 
-I 
+
 Generative A.I. does not do a great job with documentation. I have found that it generally explains things that are not necessary to explain or excludes important concepts. Although it does comment almost all code it generates, you will almost certainly need to be able to understand the code it creates and then go create your own commentary. Also, it does not follow conventions, and you will need to implement these yourself. 
 
 ### Quality Assurance
@@ -91,3 +91,7 @@ Generative A.I. does not do a great job with documentation. I have found that it
 A thousand times yes! I cannot count the number of times I have pasted problematic code into ChatGPT and gotten a fix implemented within 10 minutes! This is by far one of my favorite uses for ChatGPT, as once I have checked over my code a few times and am not able to find a problem, I get "concentration blind", where I sometimes miss silly little (important) things like commas, misspellings, or brackets. 
 
 # Impact on Learning and Understanding
+
+ChatGPT has had an overwhelmingly positive influence on my learning and understanding in a variety of contexts. If you can break it down, it can help you. It is certainly not a substitute for human instruction, nor is it a substitute for good old fashioned "grinding it out", however it will almost always make the process quicker. In fact, it is so helpful that my first resource for a problem is almost always ChatGPT. It is not advanced enough to solve all your problems or create solutions the way humans can, but it can give you a strong nudge in the right direction. Showing you where to look and what you might want to look for is a significant amount of the battle, and ChatGPT can consistently shine a flashlight to the dark path (or if not, it can light a candle). 
+
+# Practical Applications
