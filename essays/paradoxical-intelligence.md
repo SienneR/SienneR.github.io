@@ -11,6 +11,8 @@ labels:
   - Generative Aritificial Intelligence
 ---
 
+# Introduction
+
 <img width="200px" class="rounded float-start pe-4" src="../img/ai/evolution-ai.jpeg">
 
 ## Generative Artificial Intelligence 
@@ -40,7 +42,7 @@ The K.I.S.S. (Keep it simple, stupid!) rule is a good principle to adopt in many
 
 Using Generative A.I. can be very helpful, however there are many limitations. If you stick to well known facts, you have pretty good odds of getting dependable answers. However, if you're trying to get really into the 'generative' part, asking for synthesis of complex ideas or advanced analyses, you're better off using it exclusively for inspiration. Generative A.I. is a very good spring board. It can help you start a discussion post, come up with the main ideas for a paper, or even give you a design to help get your brain wheels turning, but (as with all things), you should *not* take its word as the truth and you should *not* stop your digging there. 
 
-## ICS 314 Course Involvement
+# ICS 314 Course Involvement
 
 ### ICS 314 
 
@@ -88,4 +90,4 @@ Generative A.I. does not do a great job with documentation. I have found that it
 
 A thousand times yes! I cannot count the number of times I have pasted problematic code into ChatGPT and gotten a fix implemented within 10 minutes! This is by far one of my favorite uses for ChatGPT, as once I have checked over my code a few times and am not able to find a problem, I get "concentration blind", where I sometimes miss silly little (important) things like commas, misspellings, or brackets. 
 
-
+# Impact on Learning and Understanding
