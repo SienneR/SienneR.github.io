@@ -66,8 +66,26 @@ Generative A.I., namely ChatGPT, is not very good with Meteor + React + MongoDB.
 
 ### Learning a Concept/Tutorial 
 
-If its simple, you're solid. ChatGPT can handle explanation of simple concepts really well. It can identify the relationships between two components, or explain how two things interact. I have asked ChatGPT to give an answer for a certain topic, and then asked "why?", and it almost always gives an understandable explaination. A good rule of thumb for learning concepts is that if there are (shorter) youtube videos explaining it, ChatGPT can probably do better. If you have to dig really deep into youtube, or [Abdul Bari](https://www.youtube.com/@abdul_bari) has a video for you, Abdul can do it better. 
+If its simple, you're solid. ChatGPT can handle explanation of simple concepts really well. It can identify the relationships between two components, or explain how two things interact. I have asked ChatGPT to give an answer for a certain topic, and then asked "why?", and it almost always gives an understandable explanation. A good rule of thumb for learning concepts is that if there are (shorter) youtube videos explaining it, ChatGPT can probably do better. If you have to dig really deep into youtube, or [Abdul Bari](https://www.youtube.com/@abdul_bari) has a video for you, Abdul can do it better. 
 
 ### Questions 
+
+Simple questions are great for ChatGPT. However, I use ChatGPT as my first go-to for any question, so if its puzzling me enough to need to ask it in smart-questions or in class, ChatGPT has already failed quite a few times. ChatGPT does not do well with open ended or complex questions. You have to break it down! If you can break your question down into many smaller questions, ChatGPT can usually help. I personally rarely struggle with this, however many students often do not know what they need to know, so here ChatGPT would be largely unhelpful. 
+
+### Coding Examples 
+
+For simple code, ChatGPT can definitely do it for you! Especially if you ask it for specific examples or give it a prompt to solve and say "use X", ChatGPT can absolutely solve your problem. In contexts such as entry level javascript or libraries such as underscore, you don't even have to think twice, generative A.I. knows what it's doing here! 
+
+### Explaining and Writing Code
+
+If it can write it, it can explain it. If you have a solution already and want it to be explained, you've got a 90% chance of getting a high quality explanation, as long as you're not working with many interrelated files. I have rarely encountered an explanation from ChatGPT that was not enough to gain a working knowledge of the code and be able to synthesize a similar solution from scratch. You do need to be careful though, as sometimes ChatGPT will break conventions, create redundant code, or not include somewhat necessary elements (proper error checking, for example). With JavaScript, Java, C, and C++, I have had very positive experiences asking ChatGPT to code things for me, however exclusively when there are few files involved. 
+
+### Documenting Code 
+I 
+Generative A.I. does not do a great job with documentation. I have found that it generally explains things that are not necessary to explain or excludes important concepts. Although it does comment almost all code it generates, you will almost certainly need to be able to understand the code it creates and then go create your own commentary. Also, it does not follow conventions, and you will need to implement these yourself. 
+
+### Quality Assurance
+
+A thousand times yes! I cannot count the number of times I have pasted problematic code into ChatGPT and gotten a fix implemented within 10 minutes! This is by far one of my favorite uses for ChatGPT, as once I have checked over my code a few times and am not able to find a problem, I get "concentration blind", where I sometimes miss silly little (important) things like commas, misspellings, or brackets. 
 
 
