@@ -13,7 +13,7 @@ labels:
 
 # Introduction
 
-<img width="400px" class="rounded float-start pe-4" src="../img/ai/evolution-ai.jpeg">
+<img width="800px" class="rounded float-start pe-4" src="../img/ai/evolution-ai.jpeg">
 
 ## Generative Artificial Intelligence 
 
