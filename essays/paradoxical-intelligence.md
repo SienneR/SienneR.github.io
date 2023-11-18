@@ -24,7 +24,7 @@ A hot topic in the last year, generative artificial intelligence, aka generative
 
 Although there are many different generative AI products available today, my personal experience is almost exclusively with ChatGPT, and therefore the content within this essay is in the context of my work with ChatGPT.
 
-## Spring Board
+## Springboard
 
 As a computer science major, I have personally found generative AI very helpful in a variety of different subjects. Although it almost never gets the answer exactly right, it can almost always provide a helpful starting point. If you put 100% confidence in generative A.I., you will almost certainly be led astray. However, in order to effectively use generative AI, there are a few important principals:
 
