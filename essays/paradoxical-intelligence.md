@@ -54,7 +54,7 @@ In experience WODs, generative AI was moderately helpful. As with many AI querie
 
 ### In Class Practice WODs and In Class WODs
 
-For In Class Practice WODs (and almost identically, In Class WODs), the helpfulness of generative AI depended greatly on the context of the WOD. For example, with basic JavaScript, HTML, and CSS, you can almost certainly get the right answer spit out at you if you try enough times. You can copy and paste your code in, if you have an error, and ChatGPT will tell you some things to try to fix it. While I do not have a definitive percentage, with topics such as the aforementioned ones, you have an about 95% chance of being able to have generative A.I. completely create, or at least solve errors, within a specific task. 
+For In Class Practice WODs (and almost identically, In Class WODs), the helpfulness of generative AI depended greatly on the context of the WOD. For example, with basic JavaScript, HTML, and CSS, you can almost certainly get the right answer spit out at you if you try enough times. You can copy and paste your code in, if you have an error, and ChatGPT will tell you some things to try to fix it. While I do not have a definitive percentage, with topics such as the aforementioned ones, you have an about 95% chance of being able to have generative A.I. completely create, or at least solve errors, within a specific task. For example, on the beginning WODs where we were learning JavaScript, although I tried to synthesize code myself to learn the language, I would always copy and paste my code into ChatGPT to see the syntax mistakes I was making, and it almost always gave me a good fix!
 
 However, when it came to more complex and interrelated concepts, such as using MongoDB with Meteor and using React with Meteor, ChatGPT is almost completely unhelpful. While it can give you some 'skeletons' to build onto, they're almost always poor solutions. For example, just today I tried to have ChatGPT create a button which interacts with a custom Collection. The result ChatGPT gave was not only incorrect but convoluted and poorly organized. 
 
@@ -68,7 +68,7 @@ Generative AI, namely ChatGPT, is not very good with Meteor + React + MongoDB. I
 
 ### Learning a Concept/Tutorial 
 
-If it's simple, you're solid. ChatGPT can handle explanation of simple concepts well. It can identify the relationships between two components or explain how two things interact. I have asked ChatGPT to give an answer for a certain topic, and then asked "why?", and it almost always gives an understandable explanation. A good rule of thumb for learning concepts is that if there are (shorter) youtube videos explaining it, ChatGPT can probably do better. If you have to dig really deep into youtube, or [Abdul Bari](https://www.youtube.com/@abdul_bari) has a video for you, Abdul can do it better. 
+If it's simple, you're solid. ChatGPT can handle explanation of simple concepts well. It can identify the relationships between two components or explain how two things interact. I have asked ChatGPT to give an answer for a certain topic, and then asked "why?", and it almost always gives an understandable explanation. A good rule of thumb for learning concepts is that if there are (shorter) youtube videos explaining it, ChatGPT can probably do better. If you have to dig really deep into youtube, or [Abdul Bari](https://www.youtube.com/@abdul_bari) has a video for you, Abdul can do it better. For example, I had asked ChatGPT what meteor does, and while I certainly did not get an all inclusive answer, the response was conceptually helpful. 
 
 ### Questions 
 
@@ -84,7 +84,7 @@ If it can write it, it can explain it. If you have a solution already and want i
 
 ### Documenting Code 
 
-Generative AI does not do a great job with documentation. I have found that it generally explains things that are not necessary to explain or excludes important concepts. Although it does comment almost all code it generates, you will almost certainly need to be able to understand the code it creates and then go create your own commentary. Also, it does not follow conventions, and you will need to implement these yourself. 
+Generative AI does not do a great job with documentation. I have found that it generally explains things that are not necessary to explain or excludes important concepts. Although it does comment almost all code it generates, you will almost certainly need to be able to understand the code it creates and then go create your own commentary. Also, it does not follow conventions, and you will need to implement these yourself. I have not used ChatGPT to create code documentation, but rather will ask it what the code is doing and then explain it myself once I understand. 
 
 ### Quality Assurance
 
