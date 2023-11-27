@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Creation Nation"
+title: "Symphonic Tessellation"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-28
+date: 2023-11-26
 published: true
 labels:
   - Software Development 
-  - Programming
-  - Innovation
+  - Design Patterns
+  - Project Management
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/softDev.png">
