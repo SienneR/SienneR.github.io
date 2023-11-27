@@ -65,11 +65,11 @@ In the development process, a developer or team of developers may implement a ra
 
 ## Implementation of Software Design Patterns 
 
+Throughout my development projects, I have used a great number of software design patterns in my code. Due to the high level of intuitiveness in software design patterns, you can hardly implement any project without including atleast a few software design patterns! 
 
-
+For example, I am currently in the process of creating an app called (Rainbow Gallery)[http://143.198.63.208]. This app is being created as a team, therefore organized, readable, and intuitive coding practices are incredibly important. We have used the Factory Pattern and Abstract Factory pattern on many counts, in order to ensure that code is manipulatable and can be applied in many contexts. In designing our databases and how they interact, we have implemented the Composite Pattern, a structural pattern, through the relationships between posts in the app and users. We have also implemented the Observer Pattern, a behavioral pattern in which there is a one to many dependency between objects, in the user, following, and posts structure of our app. As a final example, we have implemented the Command behavioral pattern, in which requests are encapsulated as objects, in how we upload posts to the app. 
 
 
 ## Patterns Going Forward
 
-
-Patterns will continue to be prevalent in future code, allowing developers to create a cohesive symphony through their projects.
+Overall, software design patterns are extremely important to the development process. They allow for more cohesive, understandable, and manipulatable code throughout a project. Additionally, they act as principals that encourage best practice implementations, preventing many potential issues within projects. Patterns really do make the world go round, and will continue to be prevalent in future code, allowing developers to create a cohesive symphony through their projects.
