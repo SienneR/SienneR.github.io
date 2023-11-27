@@ -11,9 +11,9 @@ labels:
   - Project Management
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/softDev.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/patterns/TriangleTesselation.png">
 
-*"The true sign of intelligence is not knowledge but imagination" - Albert Einstein*
+*"To understand is to perceive patterns" - Isaiah Berlin*
 
 Pick a problem that the world faces today. No really, pick *any* problem in the whole world. I can guarantee you, the problem you just picked can be greatly assisted, or even solved, by software development. In the modern world, we have more than we have ever had. More resources, more knowledge, more connectivity, more wealth, but also more problems, more hunger, more hostility, more strife. 
 
