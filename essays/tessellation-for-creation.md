@@ -17,7 +17,7 @@ labels:
 
 Everything in the world is made up of patterns. From behavior to math, science, language, and even nature, everything around us is made up of or can be predicted by patterns. Implementation and understanding of patterns build the world around us. Patterns affect every aspect of our lives, including software design. 
 
-<img width="200px" class="rounded float-end pe-4" src="../img/patterns/squarish.jpeg">
+<img width="200px" class="rounded float-end" src="../img/patterns/squarish.jpeg">
 
 ## Computers and Patterns 
 
