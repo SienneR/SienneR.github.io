@@ -34,10 +34,11 @@ Almost every aspect of computer science is just applied mathematics. And as is w
 
 Obviously, computers use patterns to perform practically every function. I would be willing to bet, that you could define any process a computer can complete using the word "pattern", or atleast in the context of the word "pattern". Largely because computers are just a cool application of math, you can understand everything just by having a really good understanding of patterns. 
 
-<img width="200px" class="rounded float-start pe-4" src="../img/patterns/mathDes-2.jpeg">
+<img width="200px" class="rounded float-end pe-4" src="../img/patterns/mathDes-2.jpeg">
 
 ## Software Design Patterns 
 
+<img width="200px" class="rounded float-start pe-4" src="../img/patterns/software-des-1.webp">
 
 ## Implementation of Software Design Patterns 
 
