@@ -21,9 +21,9 @@ Everything in the world is made up of patterns. From behavior to math, science, 
 
 ## Computers and Patterns 
 
-<img width="200px" class="rounded float-start pe-4" src="../img/patterns/mathDes-1.png">
-
 Almost every aspect of computer science is just applied mathematics. And as is well known, math is largely just the discovery and development of naturally occuring patterns. From basic binary to RSA encryption, computers rely heavily on patterns to create and manipulate our every day experiences. Some more examples of computers putting patterns to work are: 
+
+<img width="200px" class="rounded float-start pe-4" src="../img/patterns/mathDes-1.png">
 
 * Algorithms (literally - defined patterns for computer behavior)
 * Data Structures (organized patterns for storing information)
@@ -36,12 +36,12 @@ Almost every aspect of computer science is just applied mathematics. And as is w
 
 Obviously, computers use patterns to perform practically every function. I would be willing to bet, that you could define any process a computer can complete using the word "pattern", or atleast in the context of the word "pattern". Largely because computers are just a cool application of math, you can understand everything just by having a really good understanding of patterns. 
 
-<img width="200px" class="rounded float-end pe-4" src="../img/patterns/mathDes-2.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/patterns/mathDes-2.jpeg">
 
 
 ## Software Design Patterns 
 
-<img width="500px" class="rounded float-start pe-4" src="../img/patterns/software-des-1.webp">
+<img width="500px" class="rounded float-end pe-4" src="../img/patterns/software-des-1.webp">
 
 There are three main types of software design patterns. Creational patterns, which dictate rules for object creation, structural patterns, which focus on composition of classes or objects, and behavioral patterns, which address how objects interact and communicate. Each plays an important part in software design, as it not only organizes software well, but also allows many developers to work together with an understanding of how to implement the intended goal. Design patterns allow everyone to stay on the same page as to what is going on in the code and give abstract rules to the design process. The main benefits of software design patterns are reusability, scalability, maintainability, and testability. 
 
@@ -72,3 +72,4 @@ In the development process, a developer or team of developers may implement a ra
 ## Patterns Going Forward
 
 
+Patterns will continue to be prevalent in future code, allowing developers to create a cohesive symphony through their projects.
