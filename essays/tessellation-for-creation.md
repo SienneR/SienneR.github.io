@@ -71,4 +71,4 @@ For example, I am currently in the process of creating an app called (Rainbow Ga
 
 ## Patterns Going Forward
 
-Overall, software design patterns are extremely important to the development process. They allow for more cohesive, understandable, and manipulatable code throughout a project. Additionally, they act as principals that encourage best practice implementations, preventing many potential issues within projects. Patterns really do make the world go round, and will continue to be prevalent in future code, allowing developers to create a cohesive symphony through their projects.
+Overall, software design patterns are extremely important to the development process. They allow for more cohesive, understandable, and manipulatable code throughout a project. Additionally, they act as principals that encourage best practice implementations, preventing many potential issues within projects. Patterns really do make the world go round, and will continue to be prevalent in future code, allowing developers to create a cohesive symphonic masterpiece of patterns through their projects.
