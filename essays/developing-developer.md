@@ -11,19 +11,19 @@ labels:
   - Skill Development
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/codingStandardsComic2.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/developing-dev/development-word-diagram.jpeg">
 
-intro 
+Software development is a skill which requires expertise in a large variety of areas. In my software development course, we have learned a great many tools, from a new coding language, development environments, and coding standards, to ethics, project management, and even quality assurance tools. 
 
-## Section 1 
+## Filling in the Pieces  
 section 1
 
 
-## Section 2
+## Project Management
 section 2
 
-## Section 3
+## Development Environments
 section 3 
 
-## Section 4
+## Main Takeaways 
 section 4
