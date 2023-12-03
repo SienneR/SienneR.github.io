@@ -15,6 +15,8 @@ labels:
 
 Software development is a skill which requires expertise in a large variety of areas. In my software development course, we have learned a great many tools, from a new coding language, development environments, and coding standards, to ethics, project management, and even quality assurance tools. 
 
+There were many valuable lessons taught in my software development course, culminating in (this awesome app)[]. 
+
 ## Filling in the Pieces  
 section 1
 
