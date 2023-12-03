@@ -4,7 +4,7 @@ type: essay
 title: "Pulling Yourself Up by the Bootstraps"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-02
-published: true
+published: false
 labels:
   - Software Development 
   - UI Frameworks
