@@ -20,8 +20,14 @@ There were many valuable lessons taught in my software development course, culmi
 Throughout the course, we built many important skills. Building the foundations for success in the Software Development world, we learned through applying knowledge, undoubtedly the most practical way. Although many of the things we learned received direct instruction, the most valuable lessons learned were not from course instruction at all. 
 
 ## Filling in the Pieces  
-section 1
 
+<img width="300px" class="rounded float-end pe-4" src="../img/developing-dev/googling-meme.jpeg">
+
+Instruction in a course often offers valuable insight into vital materials. However, true learning occurs through synthesis. In every course, the most rewarding learning experience comes from trying to get something to work, and finding the missing piece (or pieces!) on your own. Especially in a field like Software Development, it is impossible for an instructor to cover *all* the necessary information and possibilities. More likely than not, you will come across a block not covered in course material or instructional content. 
+
+<img width="300px" class="rounded float-start pe-4" src="../img/developing-dev/error-progress.jpeg">
+
+This is by far the most important experience you can receive from any class. Needing a piece of information and being able to seek it out effectively and efficiently is the cornerstone of an effective individual. Although finding an error and not knowing how to fix it may be extremely frustrating, once you understand the reason you've been sitting there for a while without progress, you are *highly* unlikely to ever forget that lesson! Troubleshooting and finding the filling in the pieces is a vital skill in the Computer Science field. Effectively finding, comprehending, and then fixing an error or missing piece of information is the most valuable lesson of all!
 
 ## Project Management
 section 2
