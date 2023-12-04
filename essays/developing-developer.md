@@ -45,7 +45,7 @@ We got to gain experience with a new, capable IDE called IntelliJ. IntelliJ had 
 
 Version control is a vital tool in the development/programming world. Especially when adding different functionalities into an application, branching is helpful in that if you break something in the process, you can compare with old versions and fix issues. If many people want to work at the same time, without overwriting eachother, or stepping on eachother's toes, branching is there to save the day! Merging branches in GitHub is a pretty streamlined and intuitive process, which allows you to combine functionality while maintaining a working platform. 
 
-img width="300px" class="rounded float-end pe-4" src="../img/developing-dev/testing-meme.png">
+<img width="300px" class="rounded float-end pe-4" src="../img/developing-dev/testing-meme.png">
 
 We also got to use testing environments, such as [TestCafe](https://testcafe.io). We learned how to effectively and thoroughly test code, view results on the GitHub repository, and run different versions of tests depending on environment, such as testing locally or in headless mode. Environments like TestCafe allow you to consider use cases you might not have otherwise, and get thorough testing of your application done on every push. Automated testing allows you to ensure your code works as expected without spending hours double checking every time something changes!
 
