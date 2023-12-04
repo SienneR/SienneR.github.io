@@ -6,10 +6,10 @@ title: "NIWC Research: DoD Data Sharing || Big Data"
 date: 2023-01-15
 published: true
 labels:
-  - Big Data Platform
-  - Research
-  - Presentation
-summary: "In an internship with the Naval Information Warfare Center, I conducted a semester of research on the status and future of data sharing across the DoD."
+  - Software Development
+  - Application Design
+  - Team Collaboration
+summary: "As a final project for a software development course, my group created a social media type application for sharing artwork"
 ---
 
 <div class="text-center p-4">
