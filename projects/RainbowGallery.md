@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/NIWCEmblem.jpeg
+image: img/logo.png
 title: "Rainbow Gallery Application"
 date: 2023-01-15
 published: true
