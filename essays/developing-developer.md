@@ -30,10 +30,18 @@ Instruction in a course often offers valuable insight into vital materials. Howe
 This is by far the most important experience you can receive from any class. Needing a piece of information and being able to seek it out effectively and efficiently is the cornerstone of an effective individual. Although finding an error and not knowing how to fix it may be extremely frustrating, once you understand the reason you've been sitting there for a while without progress, you are *highly* unlikely to ever forget that lesson! Troubleshooting and finding the filling in the pieces is a vital skill in the Computer Science field. Effectively finding, comprehending, and then fixing an error or missing piece of information is the most valuable lesson of all!
 
 ## Project Management
-section 2
+
+Productive project management is an especially important capability for software developers, or anyone taking on any project! For our final project in this course, we were tasked to create an app that solves some problem that University of Hawaii at Manoa students may have. We worked in groups of approximately four to create an app almost entirely from scratch. This is a huge task for four introductory level (college student) developers to complete in approximately 3 weeks, so highly productive project management was key! In order to create an [awesome product]() in this timeline, we used Agile Project Management, specifically the [IDPM](https://courses.ics.hawaii.edu/ics314f23/morea/project-management/reading-guidelines-idpm.html) guidelines. 
+
+Agile Project Management is a flexible framework for project conduct that focuses on iterative development, collaboration, adaptation, progress transparency, and continous improvement. As a subset of agile project management, we employed issue driven project management, or IDPM. IDPM contains the same principals that agile project management does, but focuses on specific issues to accomplish. [For example](https://github.com/orgs/rainbows-gallery/projects/4), with our three week final project, we had a github project for each week, and within each github project were a list of issues to resolve by the deadline. Issues were divided as fairly as possible among team members, and progress was regularly checked at meetings up to 4 times per week. 
+
+<img width="300px" class="rounded float-end pe-4" src="../img/developing-dev/testing-meme.png">
+
+Agile Project Management and IDPM allowed us to manage a huge task effectively, "eating the elephant one bite at a time", as they say. These principals allowed us not only to create a high quality product, but to manipulate it effectively based on testing and feedback. IDPM guidelines allowed to focus our attention to the task at hand and ultimately create a better product than we would have without it.
 
 ## Development Environments
-section 3 
+
+
 
 ## Main Takeaways 
 section 4
