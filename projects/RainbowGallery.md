@@ -13,10 +13,9 @@ summary: "As a final project for a software development course, my group created
 ---
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/groupPicEdCase.jpeg" class="img-thumbnail" >
-  <img width="300px" src="../img/mePresenting.jpeg" class="img-thumbnail" >
-  <img width="300px" src="../img/groupPicProjectDay.jpeg" class="img-thumbnail" >
-   <img width="300px" src="../img/bestPosterAward.jpeg" class="img-thumbnail" >
+  <img width="300px" src="../img/RainbowGallery/About.png" class="img-thumbnail" >
+  <img width="300px" src="../img/RainbowGallery/logo.png" class="img-thumbnail" >
+  <img width="300px" src="../img/RainbowGallery/Discover.png" class="img-thumbnail" >
 </div>
 
 As a final project for a software development course, students were tasked to create an application that solved some issue within the University of Hawaii at Manoa student body. After consideration, our group decided to create a social media inspired application, which would provide artists with a platform to interactively share their art with others. The app has capabilities such as creating a profile, editing your profile, sharing posts, viewing the posts of others, searching for users, starring your favorite posts, following users to view their posts in your feed, and commenting on posts. 
