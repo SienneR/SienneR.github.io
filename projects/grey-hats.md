@@ -4,7 +4,7 @@ type: project
 image: img/greyHat.jpeg
 title: "Grey Hats || Ethical Hacking"
 date: 2022-08-25
-published: true
+published: false
 labels:
   - Ethical Hacking
   - Community Involvement
