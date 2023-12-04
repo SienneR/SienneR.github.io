@@ -16,7 +16,7 @@ labels:
 
   User Interface Frameworks provide a great deal of possibilities for the implementer. Due to all the options and tools provided, they may take some getting used to. However, the time investment is well worth-while, as UI frameworks are vital tools in software and web development. There are many reasons UI interfaces can be preferred over raw HTML and CSS, including rapid development, consistency, responsive design, community support, cross browser compatibility, and more! 
 
-<img width="300px" class="rounded float-start pe-4" src="../img/boostrap-comic.png">
+<img width="300px" class="rounded float-end pe-4" src="../img/boostrap-comic.png">
 
 ## Don't Reinvent the Wheel! 
 
