@@ -19,7 +19,7 @@ summary: "As a final project for a software development course, my group created
    <img width="300px" src="../img/bestPosterAward.jpeg" class="img-thumbnail" >
 </div>
 
-
+As a final project for a software development course, students were tasked to create an application that solved some issue within the University of Hawaii at Manoa student body. After consideration, our group decided to create a social media inspired application, which would provide artists with a platform to interactively share their art with others. 
 
 
 [Learn more](https://rainbows-gallery.github.io/)
