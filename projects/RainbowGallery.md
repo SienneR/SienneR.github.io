@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/NIWCEmblem.jpeg
-title: "NIWC Research: DoD Data Sharing || Big Data"
+title: "Rainbow Gallery Application"
 date: 2023-01-15
 published: true
 labels:
