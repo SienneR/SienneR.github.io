@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/logo.png
 title: "Rainbow Gallery Application"
-date: 2023-01-15
+date: 2023-10-03
 published: true
 labels:
   - Software Development
@@ -18,6 +18,8 @@ summary: "As a final project for a software development course, my group created
   <img width="300px" src="../img/groupPicProjectDay.jpeg" class="img-thumbnail" >
    <img width="300px" src="../img/bestPosterAward.jpeg" class="img-thumbnail" >
 </div>
+
+
 
 
 [Learn more](https://rainbows-gallery.github.io/)
