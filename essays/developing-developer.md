@@ -35,13 +35,18 @@ Productive project management is an especially important capability for software
 
 Agile Project Management is a flexible framework for project conduct that focuses on iterative development, collaboration, adaptation, progress transparency, and continous improvement. As a subset of agile project management, we employed issue driven project management, or IDPM. IDPM contains the same principals that agile project management does, but focuses on specific issues to accomplish. [For example](https://github.com/orgs/rainbows-gallery/projects/4), with our three week final project, we had a github project for each week, and within each github project were a list of issues to resolve by the deadline. Issues were divided as fairly as possible among team members, and progress was regularly checked at meetings up to 4 times per week. 
 
-<img width="300px" class="rounded float-end pe-4" src="../img/developing-dev/testing-meme.png">
-
 Agile Project Management and IDPM allowed us to manage a huge task effectively, "eating the elephant one bite at a time", as they say. These principals allowed us not only to create a high quality product, but to manipulate it effectively based on testing and feedback. IDPM guidelines allowed to focus our attention to the task at hand and ultimately create a better product than we would have without it.
 
 ## Development Environments
 
+Can you imagine trying to code a full scale application in a text editor? My guess is that it would take approximately 30-40x as long, if not more! Development environments are the brush with which we paint. Throughout this course, we have had the ability to go from never having used or having very little experience with environments like IntelliJ or version control like Git/GitHub, to being very proficient with them. 
+
+We got to gain experience with a new, capable IDE called IntelliJ. IntelliJ had a lot of helpful features and tools, which I'm sure I will never stop discovering! It could also run a terminal window within the application. There were some annoying features, such as how it would offer to 'fix' your npm dependencies, but then irreperably break them, but for the most part IntelliJ was an extremely helpful partner in crime! 
+
+Version control is a vital tool in the development/programming world. Especially when adding different functionalities into an application, branching is helpful in that if you break something in the process, you can compare with old versions and fix issues. If many people want to work at the same time, without overwriting eachother, or stepping on eachother's toes, branching is there to save the day! Merging branches in GitHub is a pretty streamlined and intuitive process, which allows you to combine functionality while maintaining a working platform. 
+
+img width="300px" class="rounded float-end pe-4" src="../img/developing-dev/testing-meme.png">
+
+We also got to use testing environments, such as [TestCafe](https://testcafe.io). We learned how to effectively and thoroughly test code, view results on the GitHub repository, and run different versions of tests depending on environment, such as testing locally or in headless mode. Environments like TestCafe allow you to consider use cases you might not have otherwise, and get thorough testing of your application done on every push. Automated testing allows you to ensure your code works as expected without spending hours double checking every time something changes!
 
 
-## Main Takeaways 
-section 4
