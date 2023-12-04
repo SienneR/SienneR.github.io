@@ -11,7 +11,7 @@ labels:
   - Skill Development
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/developing-dev/development-word-diagram.jpeg">
+<img width="400px" class="rounded float-start pe-4" src="../img/developing-dev/development-word-diagram.jpeg">
 
 Software development is a skill which requires expertise in a large variety of areas. In my software development course, we have learned a great many tools, from a new coding language, development environments, and coding standards, to ethics, project management, and even quality assurance tools. 
 
@@ -21,7 +21,7 @@ Throughout the course, we built many important skills. Building the foundations 
 
 ## Filling in the Pieces  
 
-<img width="300px" class="rounded float-end pe-4" src="../img/developing-dev/googling-meme.jpeg">
+<img width="500px" class="rounded float-end pe-4" src="../img/developing-dev/googling-meme.jpeg">
 
 Instruction in a course often offers valuable insight into vital materials. However, true learning occurs through synthesis. In every course, the most rewarding learning experience comes from trying to get something to work, and finding the missing piece (or pieces!) on your own. Especially in a field like Software Development, it is impossible for an instructor to cover *all* the necessary information and possibilities. More likely than not, you will come across a block not covered in course material or instructional content. 
 
