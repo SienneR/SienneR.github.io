@@ -1,0 +1,79 @@
+{
+  "basics": {
+    "name": "Sienne Rodwell",
+    "label": "Computer Science Student",
+    "picture": "https://github.com/sienner.png",
+    "email": "rodwells@hawaii.edu",
+    "phone": "8433717050",
+    "website": "https://sienner.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Summer, 2024.",
+    "location": { "address": "", "postalCode": "96786", "city": "Wahiawa", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "sienner", "url": "http://github.com/sienner" },
+      { "network": "linkedin", "username": "sienne-rodwell", "url": "https://www.linkedin.com/in/sienne-rodwell/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Development" },
+    { "name": "Cybersecurity" },
+    { "name": "Data Science and Analysis" },
+    { "name": "Programming" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Linux", "UNIX", "Threat Analysis" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub" ,"Microsoft Office", "React.js", "Meteor.js", "Mongo DB"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2022-08-20",
+      "endDate": "2024-07-15",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Naval Information Warfare Center",
+      "position": "Cybersecurity intern",
+      "website": "https://www.niwcpacific.navy.mil/",
+      "startDate": "2023-01-04",
+      "endDate": "2023-05-15",
+      "summary": "Research and Presentation in Modern Cybersecurity Issues",
+      "highlights": [
+        "Identified and analyzed issues in current Cyber operations in the Navy and DoD",
+        "Researched improvements and developments in Cyber operations and Big Data sharing",
+        "Created deliverables (research paper and presentation) according to superior’s intent",
+        "Presented findings of research, accommodating for audience, including representative Ed Case and senator Mazie Hirono"
+      ]
+    },
+  ],
+  
+  "awards": [
+    {
+      "title": "President's List",
+      "date": "Fall 2022, Spring 2023, Fall 2023",
+      "awarder": "UH Manoa",
+      "summary": "Awarded to students Maintaining a 4.0 GPA"
+    },
+    {
+      "title": "Best Poster",
+      "date": "May 2023",
+      "awarder": "University of Hawaii ICS Project Day",
+      "summary": "I recieved the 'Best Poster' award for my division when presenting a cybersecurity data sharing research project at the Computer Sciences Project Day."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
